@@ -6,7 +6,7 @@ locations of competing CTCFs
 
 Usage: python3 find_competing_ctcfs.py <loopname_file> <ctcf_peak_file> <loop_location_file> <threshold> <output filename>
 
-@author: 15017
+@author: Kara Quaid
 """
 
 import sys
